@@ -1,0 +1,15 @@
+..\env\lib\site-packages\django\contrib\messages\__init__.py:1:1 'from django.contrib.messages.api import *' used; unable to detect undefined names
+..\env\lib\site-packages\django\contrib\messages\__init__.py:1:1 'django.contrib.messages.api.*' imported but unused
+..\env\lib\site-packages\django\contrib\messages\__init__.py:2:1 'from django.contrib.messages.constants import *' used; unable to detect undefined names
+..\env\lib\site-packages\django\contrib\messages\__init__.py:2:1 'django.contrib.messages.constants.*' imported but unused
+polls\tests.py:1:1 'django.test.TestCase' imported but unused
+polls\tests.py:2:1 'datetime' imported but unused
+polls\tests.py:4:1 'django.utils.timezone' imported but unused
+polls\tests.py:5:1 'django.urls.reverse' imported but unused
+polls\views.py:66:17 local variable 'new_choice1' is assigned to but never used
+polls\views.py:68:17 local variable 'new_choice2' is assigned to but never used
+accounts\admin.py:1:1 'django.contrib.admin' imported but unused
+accounts\forms.py:2:1 'django.contrib.auth.models.User' imported but unused
+accounts\models.py:1:1 'django.db.models' imported but unused
+accounts\tests.py:1:1 'django.test.TestCase' imported but unused
+accounts\views.py:6:1 'django.http.HttpResponse' imported but unused

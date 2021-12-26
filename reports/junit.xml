@@ -1,0 +1,5 @@
+<testsuite errors="1" failures="0" name="Django Project Tests" skips="0" tests="1" time="0.001"><testcase classname="polls.tests.QuestionModelTest" name="test_was_published_recently_with_future_question" time="0.000000"><error message="name 'Question' is not defined" type="builtins.NameError">Traceback (most recent call last):
+  File "F:\Yudiz\Auto deploy\Django-Poll-App-master\polls\tests.py", line 13, in test_was_published_recently_with_future_question
+    future_question = Question(pub_date=time)
+NameError: name 'Question' is not defined
+</error></testcase></testsuite>
