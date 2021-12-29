@@ -1,5 +1,4 @@
 *.log
-.env
 *.pot
 *.pyc
 __pycache__/
